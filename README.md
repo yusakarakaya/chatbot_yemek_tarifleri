@@ -49,3 +49,8 @@ Kurulum
 2. Gerekli kütüphaneleri yükleyin
 3. .env dosyasını oluşturun ve API anahtarlarınızı ekleyin
 4. Uygulamayı çalıştırın:
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Chatbot çalışma videosu:
+https://github.com/yusakarakaya/chatbot_yemek_tarifleri/blob/main/chatbot_deneme.mp4
