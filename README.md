@@ -45,7 +45,7 @@ Hazırlanan tabloya göre, her iki model de (Gemini ve Llama) test verisindeki 5
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Kurulum
-1. Depoyu klonlayın:     git clone https://github.com/kullaniciadi/proje-adi.git
-2. Gerekli kütüphaneleri yükleyin:     pip install -r requirements.txt
+1. Depoyu klonlayın
+2. Gerekli kütüphaneleri yükleyin
 3. .env dosyasını oluşturun ve API anahtarlarınızı ekleyin
 4. Uygulamayı çalıştırın:
